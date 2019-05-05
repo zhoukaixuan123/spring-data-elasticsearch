@@ -66,6 +66,8 @@ public class IndexTest {
         list.add(new Item(1L, "11坚果手机R1", " 手机", "锤子", 3699.00, "http://image.leyou.com/123.jpg"));
         list.add(new Item(4L, "44华为META10", " 手机", "华为", 4499.00, "http://image.leyou.com/3.jpg"));
 
+
+
         list.add(new Item(2L, "22坚果手机R1", " 手机", "锤子", 3699.00, "http://image.leyou.com/123.jpg"));
         list.add(new Item(3L, "33华为META10", " 手机", "华为", 4499.00, "http://image.leyou.com/3.jpg"));
         // 接收对象集合，实现批量新增
